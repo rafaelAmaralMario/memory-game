@@ -76,6 +76,7 @@ yarn start
 
 After running the server, you can finally play the game: 
 
+```
 http://localhost:3000/
 ```
 
